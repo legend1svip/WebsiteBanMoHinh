@@ -1,0 +1,17 @@
+* Mở db:
+Mở Laragon
+Ấn Database
+vào web => đăng nhập
+Tài khoản root (ko cần mật khẩu)
+* Mở file code
+vào file TGDD
+nhấp vào đường link trên folder: gõ cmd để mở command
+nhập: code . ( mở toàn bộ code)
+mở terminal của từng file: Khi thấy powershell thì đổi thành git bash
+sau đó: dùng lệnh
+ cd tên_thư_mục (ví dụ: cd be_tgdd)
+sau đó chạy file code bằng câu lệnh: npm start
+riêng file code clients thì chạy bằng câu lệnh: npm run dev
+
+0981965299
+123456789
